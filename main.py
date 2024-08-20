@@ -9,7 +9,7 @@ def main():
         print("1. Convertir divisas")
         print("2. Salir")
 
-        choice = input ("Elige una opcion: ")
+        choice = input ("Elige una opción: ")
 
         if choice == '1':
             from_currency = input("Divisa de origen (por ejemplo, USD): ").upper()
@@ -23,7 +23,7 @@ def main():
             print ("Saliendo de la calculadora...")
             break
         else:
-            print("Opcion no valida. Intente de nuevo.")
+            print("Opción no válida. Intente de nuevo.")
 
 if __name__ == "__main__":
     main()

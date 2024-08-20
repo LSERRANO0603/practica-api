@@ -1,6 +1,7 @@
-#Currency Converter
+# Currency Converter
 
-Esta es una aplicacion de calculadora de divisas simple desarrollada en Python utilizando POO.
+Esta es una aplicación de calculadora de divisas simple desarrollada en Python utilizando POO.
+
 **Asignatura:** Desarrollo Web 1
 **TSU:** En Servicios en la Nube
 **Nombres:** Liliana Patricia
@@ -11,11 +12,11 @@ Esta es una aplicacion de calculadora de divisas simple desarrollada en Python u
 - Python 3.x
 - Biblioteca `requests`
 
-## Instalacion 
+## Instalación 
 
-1. Clona este repositorio
-2. Instala las dependencias con `pip install requests`
-3. Configura tu clave de API en `config.py`
+1. Clona este repositorio.
+2. Instala las dependencias con `pip install requests`.
+3. Configura tu clave de API en `config.py`.
 
 ## Uso
 
